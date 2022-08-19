@@ -1,0 +1,16 @@
+{
+    "name": "1111",
+    "type": "BEP20",
+    "symbol": "WETUX",
+    "decimals": 8,
+    "website": "https://wetux.com/",
+    "description": "Put your idle crypto-asset to work towards enhancing",
+    "explorer": "https://bscscan.com/token/0x58f0c2fd4b7b0fbac97c9cc71a5eb810627734c8",
+    "status": "active",
+    "id": "0x58f0c2fd4b7b0fbac97c9cc71a5eb810627734c8",
+    "links": [
+    ],
+    "tags": [
+        "defi"
+    ]
+}
